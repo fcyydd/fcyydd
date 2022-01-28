@@ -4,7 +4,7 @@
 Hi there 👋 It's Fatma Ceyda Yıldız!
 
 - I’m currently learning **Machine Learning/Deep Learning**
-- I’m looking for help with *Deep Learning for Cyber Security*
+- I’m a Jr. Data Scientist
 
  ⚡ How to reach me ⚡
 
