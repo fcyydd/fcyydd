@@ -3,8 +3,8 @@
 
 Hi there 👋 It's Fatma Ceyda Yıldız!
 
-- I’m currently learning **Machine Learning/Deep Learning**
-- I’m a Jr. Data Scientist
+- I’m currently learning **Computer Vision**
+- I’m a Jr. Computer Vision Research Engineer at Xena Vision
 
  ⚡ How to reach me ⚡
 
