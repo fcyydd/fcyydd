@@ -9,7 +9,7 @@
 
 ### 😼 More About Me 😼
 
-- 👩‍💻 I’m a **Jr. Computer Vision Research Engineer** at Xena Vision
+- 👩‍💻 I’m a **Jr. Computer Vision Research Engineer** at Biriz Enerji
 - 🐾 I'm currently learning C++
 - 🤔 I love doing reasearch, I am happy to discuss new technologies
 - 🤭 Fun fact, I love Italian Baroque Period 
